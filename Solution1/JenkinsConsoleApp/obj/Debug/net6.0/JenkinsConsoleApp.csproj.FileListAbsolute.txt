@@ -1,0 +1,15 @@
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\bin\Debug\net6.0\JenkinsConsoleApp.exe
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\bin\Debug\net6.0\JenkinsConsoleApp.deps.json
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\bin\Debug\net6.0\JenkinsConsoleApp.runtimeconfig.json
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\bin\Debug\net6.0\JenkinsConsoleApp.dll
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\bin\Debug\net6.0\JenkinsConsoleApp.pdb
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.csproj.AssemblyReference.cache
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.AssemblyInfoInputs.cache
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.AssemblyInfo.cs
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.csproj.CoreCompileInputs.cache
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.dll
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\refint\JenkinsConsoleApp.dll
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.pdb
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\JenkinsConsoleApp.genruntimeconfig.cache
+D:\Dev\Play\Jenkins\Solution1\JenkinsConsoleApp\obj\Debug\net6.0\ref\JenkinsConsoleApp.dll
